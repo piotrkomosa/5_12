@@ -1,8 +1,7 @@
-.margin{
-    margin-right:200px;
-}
+
 .margin2{
-    margin: 60px;
+    margin: 60px 100px;
+
 }
 
 .male_female{
@@ -12,6 +11,12 @@
 .div1 {
     width: 300px;
     height: 100px;
+}
+
+.center {
+    margin: auto;
+    width: 200px;
+    padding: 10px;
 }
 
 
